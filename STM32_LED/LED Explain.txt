@@ -1,0 +1,6 @@
+/*
+项目名称：LED灯
+作者：周志豪
+开发日期：2018.4.25 18:39
+*/
+详细开发过程以及电路原理图分析：https://blog.csdn.net/bjbz_cxy/article/details/80081886
